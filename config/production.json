@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bib_store_admin:passwordBIB@sandbox.ymwmt.mongodb.net/?retryWrites=true&w=majority&appName=Sandbox",
+    "jwtSecret": "mysecrettoken"
+}
